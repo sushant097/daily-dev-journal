@@ -59,10 +59,5 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 > “Small, consistent progress compounds into mastery.”
 > This journal keeps me accountable — every line of code, every video watched, every concept explored adds to a broader journey of becoming a more thoughtful engineer.
 
----
 
-### 🧾 License
-
-This journal and sample automation code are shared for **learning and personal growth**.
-Feel free to reference, fork, or adapt — but always keep learning forward. ✨
 
