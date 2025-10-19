@@ -20,6 +20,7 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 | **Oct 10, 2025** | 📧 *MCP Server — Gmail Automation* | Created a Gmail MCP server and LLM agent that autonomously sends emails via the Gmail API using Gemini Flash 2.0, complete with log tracking and self-generated reports.                   | [💻 GitHub - Gmail MCP Server](https://github.com/sushant097/Custom-MCP-server-to-paint-in-Python/tree/master/gmail-mcp) |
 | **Oct [11,12,13,14] 2025** | Worked on Prompt Engineering | Uses Prompt to complete task by Agent. Agent which optimize multi-city roundtrip. Used MCP server with all tools provided and automate all execution through agent response. | [Code](https://github.com/sushant097/EAGV2-Session5-Assignment.git) |
 | **Oct [15,16] 2025** | Celebrity Detection and QA Agent | Detect celebrity on the photo uploaded and support QA about that celebrity. Deployed with `CircleCI`, `GCP Kubernetes Engine`. | [Code](https://github.com/sushant097/CELEBRITY-Detector-And-QA) |
+| **Oct [17,18] 2025** | Multi AI Agent LLMOPS | Multi-AI agent with search capability built with `Langchain`, `Langgraph`, `Jenkins` and deployed on AWS Fargate. | [Code](https://github.com/sushant097/Multi-AI-Agent-LLMOPS/tree/master) |
 
 ---
 
