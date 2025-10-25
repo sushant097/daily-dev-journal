@@ -28,6 +28,12 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 <!-- | **Oct 25 – 26 2025** | 🧩 [**TabGist — Chrome AI Summarizer**](https://github.com/sushant097/tabgist-chrome)                                  | Created a Chrome Extension that summarizes any web or YouTube tab using a **FastAPI backend**. Integrated **Gemini** for AI summaries and translations, with a **local fallback** for offline summarization. | 🧠 *Chrome MV3 · FastAPI · Python · Gemini API · YouTube Transcript API · Local AI Summarizer* | -->
 
 
+<!-- Other projects:
+- https://github.com/sushant097/Flipcart-recommender-llmops
+- https://github.com/sushant097/ANIME-Recommender-LLMOPS
+- https://github.com/sushant097/AI-Travel-Planner
+- https://github.com/sushant097/Study-Buddy-AI -->
+
 ---
 
 ### 🧩 Learning Focus
