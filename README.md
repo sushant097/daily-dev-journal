@@ -21,6 +21,9 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 | **Oct 11 – 14 2025** | 🧠 [**Prompt Engineering & Multi-City Route Agent**](https://github.com/sushant097/EAGV2-Session5-Assignment.git)                      | Implemented an **LLM agent** to plan and optimize a multi-city roundtrip using dynamic tool execution through MCP responses.                                          | 🚀 *Prompt Chaining · Agentic AI · MCP*     |
 | **Oct 15 – 16 2025** | 🌟 [**Celebrity Detection + QA Agent**](https://github.com/sushant097/CELEBRITY-Detector-And-QA)                                 | Created a vision agent that detects celebrities and answers questions about them. CI/CD via **CircleCI** and deployed on **GCP Kubernetes Engine**.                   | 🤖 *LangChain · Vision AI · GKE · CircleCI* |
 | **Oct 17 – 20 2025** | 🤖 [**Multi AI Agent LLMOps**](https://github.com/sushant097/Multi-AI-Agent-LLMOPS/tree/master)                                  | Designed a multi-agent system with autonomous search capabilities, integrated **LangChain**, **LangGraph**, and **Jenkins**, deployed to **AWS Fargate**.             | 🧩 *LangGraph  · Langchain · Jenkins · Sonarqube · AWS ECS Fargate*  |
+| **Oct 21 – 22 2025** | 📈 [**AI Stock Advisor**](https://github.com/sushant097/ai-stock-advisor)                                                        | Built an AI-powered investment app using **Streamlit** and **yfinance**, integrated **Gemini (via agno)** for personalized stock insights, and added Plotly-based performance charts. | 🧠 *Streamlit · yfinance · Gemini API · agno · Plotly · Python*                   |
+
+
 
 ---
 
