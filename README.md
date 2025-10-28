@@ -25,14 +25,16 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 | **Oct 23 – 24 2025** | 🎵 [**AI Music Composer**](https://github.com/sushant097/AI-Music-Composer)                                       | Developed an AI-powered system to generate melodies using **LangChain + Groq LLM**, built an interactive **Streamlit** interface, containerized with **Docker**, and deployed on **GKE (Kubernetes)**. | 🎼 *LangChain · Groq LLM · Streamlit · Music21 · Docker · Kubernetes (GKE)*     |
 
 
-<!-- | **Oct 25 – 26 2025** | 🧩 [**TabGist — Chrome AI Summarizer**](https://github.com/sushant097/tabgist-chrome)                                  | Created a Chrome Extension that summarizes any web or YouTube tab using a **FastAPI backend**. Integrated **Gemini** for AI summaries and translations, with a **local fallback** for offline summarization. | 🧠 *Chrome MV3 · FastAPI · Python · Gemini API · YouTube Transcript API · Local AI Summarizer* | -->
+| **Oct 25 – 28 2025** | 🧩 [**TabGist — Chrome AI Summarizer**](https://github.com/sushant097/tabgist-chrome)                                  | Created a Chrome Extension that summarizes any web or YouTube tab using a **FastAPI backend**. Integrated **Gemini** for AI summaries and translations, with a **local fallback** for offline summarization. | 🧠 *Chrome MV3 · FastAPI · Python · Gemini API · YouTube Transcript API · Local AI Summarizer* |
 
 
 <!-- Other projects:
 - https://github.com/sushant097/Flipcart-recommender-llmops
 - https://github.com/sushant097/ANIME-Recommender-LLMOPS
 - https://github.com/sushant097/AI-Travel-Planner
-- https://github.com/sushant097/Study-Buddy-AI -->
+- https://github.com/sushant097/Study-Buddy-AI 
+- https://github.com/sushant097/medical-rag-chatbot
+-->
 
 ---
 
