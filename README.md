@@ -67,14 +67,14 @@ Each entry includes a **date**, **topic**, a short **summary**, and a **resource
 ---
 
 
-### 🧠 Highlights
+<!-- ### 🧠 Highlights
 
 * 🧩 **Built modular MCP servers** for automation (Paint & Gmail)
 * 🔗 **Integrated Gemini Flash 2.0** with MCP for intelligent tool use
 * 📨 **Enabled LLM-driven Gmail automation** — the agent can email logs autonomously
 * 💡 **Learned Kubernetes internals** and hands-on container orchestration
 
----
+--- -->
 
 ### 💬 Reflection
 
